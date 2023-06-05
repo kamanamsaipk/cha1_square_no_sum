@@ -1,0 +1,1 @@
+# cha1_square_no_sum
